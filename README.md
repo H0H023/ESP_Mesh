@@ -9,4 +9,4 @@ This software is providing a mesh network topologies for Wi-Fi (IEEE 802.11) of 
 
 Build
 -----------
-This software was created using [ESP Open SDK] (https://github.com/xxxajk/esp-open-sdk). 
+This software was created using [ESP Open SDK](https://github.com/xxxajk/esp-open-sdk). 
